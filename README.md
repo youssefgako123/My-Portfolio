@@ -6,7 +6,7 @@ Welcome! This repository serves as a central hub for my professional background,
 
 📄 Curriculum Vitae (CV)
 You can view or download my latest resume here:
-👉 **[Click to View My CV](./YOUSEF_ALAA_CV.pdf)** *(Note: Make sure the filename matches exactly what you uploaded)*
+👉 **[Click to View My CV](./YOUSEF_ALAA_CV.pdf)** 
 
 ---
 
@@ -20,7 +20,7 @@ I specialize in building robust backend systems with a focus on logic and scalab
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
 
 ### 🏥 MYcampus App (Graduation Project)
 A comprehensive campus management system designed to streamline student and faculty interactions.
@@ -38,6 +38,6 @@ A comprehensive campus management system designed to streamline student and facu
 
 📬 Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/youssef-alaa-2b2a35328
-* **Email:** [Your Email Here]
+* **Email:** youssefalaa246810@gmail.com
 
 ---
